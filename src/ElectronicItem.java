@@ -1,0 +1,53 @@
+public class ElectronicItem extends CISItem{
+    public ElectronicItem(String name){
+        super(name);
+    }
+
+    private int storageCapacity;
+    private String model;
+    private String maker;
+    private String operatingSystem;
+
+    public int getStorageCapacity() {
+        return storageCapacity;
+    }
+
+    public void setStorageCapacity(int storageCapacity) {
+        this.storageCapacity = storageCapacity;
+    }
+
+    public String getModel() {
+        return model;
+    }
+
+    public void setModel(String model) {
+        this.model = model;
+    }
+
+    public String getMaker() {
+        return maker;
+    }
+
+    public void setMaker(String maker) {
+        this.maker = maker;
+    }
+
+    public String getOperatingSystem() {
+        return operatingSystem;
+    }
+
+    public void setOperatingSystem(String operatingSystem) {
+        this.operatingSystem = operatingSystem;
+    }
+
+    @Override
+    public void show() {
+        super.show();
+        System.out.println("ElectronicItem{" +
+                "storageCapacity=" + storageCapacity +
+                ", model='" + model + '\'' +
+                ", maker='" + maker + '\'' +
+                ", operatingSystem='" + operatingSystem + '\'' +
+                '}');
+    }
+}
