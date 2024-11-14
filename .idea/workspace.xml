@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c863d92f-c990-4a4a-a5e5-819480f24948" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/(S)CS.12.02-Lab1-CIS-Store.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arduino.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CISItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ElectronicItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Magazine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReadingItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Store.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StoreTester.java" afterDir="false" />
-    </list>
+    <list default="true" id="c863d92f-c990-4a4a-a5e5-819480f24948" name="Changes" comment="(S) CS.12.02 - Lab 1 - CIS Store" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,21 +29,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "onboarding.tips.debug.path": "/Users/getittogether/IdeaProjects/aaaaaaaaa/src/Main.java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/getittogether/IdeaProjects/aaaaaaaaa/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="JUnit.StoreTester">
     <configuration name="StoreTester" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="(S)CS.12.02-Lab1-CIS-Store" />
@@ -129,6 +113,30 @@
       <option name="presentableId" value="Default" />
       <updated>1730938574820</updated>
     </task>
+    <task id="LOCAL-00001" summary="(S) CS.12.02 - Lab 1 - CIS Store">
+      <option name="closed" value="true" />
+      <created>1731578603375</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731578603375</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="(S) CS.12.02 - Lab 1 - CIS Store" />
+    <option name="LAST_COMMIT_MESSAGE" value="(S) CS.12.02 - Lab 1 - CIS Store" />
   </component>
 </project>
